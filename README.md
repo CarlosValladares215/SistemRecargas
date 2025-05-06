@@ -165,6 +165,7 @@ Codigo:
 Recarga Manual:
 
 Interfaz:
+
 ![image](https://github.com/user-attachments/assets/46ecaa34-1ec9-471d-ae43-61376ec8274f)
 
 Codigo:
